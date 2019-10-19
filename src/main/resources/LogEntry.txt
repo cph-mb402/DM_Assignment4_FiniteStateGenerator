@@ -1,0 +1,14 @@
+level: information-logged in successfully, system: loginsystem, instance:1, action:login, timestamp: 4/2-2019 00:00
+level: information-listing all users successfully, system: loginsystem, instance:1, action:see users, timestamp: 4/2-2019 00:05
+level: information-logged out successfully, system: loginsystem, instance:1, action:logout, timestamp: 4/2-2019 00:10
+level: information-logged in successfully, system: loginsystem, instance:2, action:login, timestamp: 2/2-2019 00:00
+level: information-user added successfully, system: loginsystem, instance:2, action:add user, timestamp: 2/2-2019 00:05
+level: information-back to homepage, system: loginsystem, instance:2, action:back to homepage, timestamp: 2/2-2019 00:10
+level: information-logged out successfully, system: loginsystem, instance:2, action:logout, timestamp: 2/2-2019 00:15
+level: information-logged in successfully, system: loginsystem, instance:3, action:login, timestamp: 5/2-2019 00:00
+level: warning-couldn't log in because user already has logged in, system: loginsystem, instance:3, action:login, timestamp: 5/2-2019 00:05
+level: warning-couldn't log in because user already has logged in, system: loginsystem, instance:3, action:login, timestamp: 5/2-2019 00:10
+level: information-logged in successfully, system: loginsystem, instance:4, action:login, timestamp: 10/2-2019 00:00
+level: information-user deleted successfully, system: loginsystem, instance:4, action:delete user, timestamp: 10/2-2019 00:05
+level: information-user absent from keyboard, system: loginsystem, instance:4, action:timeout, timestamp: 10/2-2019 00:10
+level: error-system crashes user is timed out, system: loginsystem, instance:4, action:end, timestamp: 10/2-2019 00:12
